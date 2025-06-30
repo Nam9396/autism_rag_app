@@ -12,8 +12,7 @@ from langchain.chains.combine_documents import create_stuff_documents_chain
 
 model = get_synthesize_model()
 
-retriever = create_mmr_retriever(k=10, top_k=30, lambda_mult=0.4)
-
+retriever = create_mmr_retriever(k=10, top_k=30, lambda_mult=0.6)
 
 qa_prompt = ChatPromptTemplate.from_messages(
     [

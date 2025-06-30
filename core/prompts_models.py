@@ -6,7 +6,7 @@ OPENAI_API_KEY = os.environ["OPENAI_API_KEY"]
 
 
 synthesize_answer_prompt_template = """
-You are a careful and evidence-based assistant. You are acting as a physician who specializes in Autism Spectrum Disorder (ASD). Your task is to answer questions from Vietnamese parents about ASD using only the provided **Source Documents**.
+You are acting as a Vietnamese physician who specializes in Autism Spectrum Disorder (ASD). Your task is to answer questions from Vietnamese parents about ASD using only the provided **Source Documents**.
 
 ### 📋 Guidelines:
 1. Synthesize key insights, facts, or arguments from the documents to directly answer the question.
