@@ -10,7 +10,7 @@ Chúng tôi hiểu rằng hành trình chăm sóc và hỗ trợ trẻ tự kỷ
 
 Bạn có thể đặt câu hỏi về các vấn đề liên quan đến rối loạn phổ tự kỷ như một buổi tư vấn. Chủ đề rất đa dạng: từ tầm soát, chẩn đoán, can thiệp, đến kinh nghiệm chăm sóc trẻ hàng ngày.
             
-Nếu bạn cần một cái nhìn tổng quan các vấn đề về rối loạn phổ tự kỷ, hãy tham khảo website [Tự kỷ Cẩm nang](https://tukycamnang.vercel.app/) của chúng tôi.
+Nếu bạn cần một cái nhìn tổng quan về rối loạn phổ tự kỷ, hãy tham khảo website [Tự kỷ Cẩm nang](https://tukycamnang.vercel.app/) của chúng tôi.
 
 #### Ứng dụng hoạt động như thế nào
 - Chúng tôi xây dựng cơ sở kiến thức về rối loạn phổ tự kỷ từ các sách chuyên ngành. 
